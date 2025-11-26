@@ -30,6 +30,7 @@ The number of iterations before `|z|` exceeds a threshold determines the pixel's
 
 ## 🖼 Example
 
-*(Insert sample Julia Set screenshot here)*
+![Julia Set Example](https://github.com/pinwei123/DrawJuliaSet/raw/main/picture/6.png)
+
 
 ---
