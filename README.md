@@ -1,6 +1,6 @@
 # DrawJuliaSet
 
-An ARM Assembly program that renders and animates **Julia set fractals** directly on the framebuffer (`/dev/fb0`). The project demonstrates low-level graphics computation entirely in Assembly without using any high-level programming languages.
+An ARM Assembly program that renders and animates **Julia set fractals** directly on the framebuffer. The project demonstrates low-level graphics computation entirely in Assembly without using any high-level programming languages.
 
 ---
 
