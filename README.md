@@ -20,7 +20,7 @@ The number of iterations before `|z|` exceeds a threshold determines the pixel's
 
 * Full ARM Assembly implementation.
 * Computes each pixel using integer arithmetic.
-* Direct framebuffer (`/dev/fb0`) access for 640×480 rendering.
+* Direct framebuffer access for 640×480 rendering.
 * Escape-time coloring mapped to 16-bit pixel values.
 * Nested X/Y loops with early exit for iterations.
 * Interactive animation triggered by key input.
