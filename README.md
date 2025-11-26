@@ -4,7 +4,7 @@ An ARM Assembly program that renders and animates **Julia set fractals** directl
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This program computes the Julia set fractal for a given complex constant `c` and displays it on a screen. Each pixel is calculated using integer arithmetic, iterating the complex quadratic map:
 
@@ -16,7 +16,7 @@ The number of iterations before `|z|` exceeds a threshold determines the pixel's
 
 ---
 
-## ⚡ Key Highlights
+## Key Highlights
 
 * Full ARM Assembly implementation.
 * Computes each pixel using integer arithmetic.
